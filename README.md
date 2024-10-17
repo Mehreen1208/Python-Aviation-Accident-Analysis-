@@ -73,7 +73,7 @@ You need a Google account to access Google Colab.
 ### Opening the Notebook
 
 1. Open the Google Colab notebook:
-   - Open the provided Google Colab notebook file 'Python Aviation Accident Analysis.ipynb` in this repository..
+   - Open the provided Google Colab notebook file 'Python_Aviation_Accident_Analysis.ipynb` in this repository..
 
 2. Load the dataset:
    - The dataset is included in the repository.
